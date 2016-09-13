@@ -9,8 +9,7 @@ package ${target.javaPackageFromFolder(${TEST_SRC})};
 import static org.junit.Assert.assertNull;
 import static org.junit.Assert.assertTrue;
 
-import $entity.fullName ;
-import ${ROOT_PKG}.cache.${entity.name}Cache ;
+import ${ROOT_PKG}.basic.bean.${entity.name} ;
 
 import org.junit.Test;
 

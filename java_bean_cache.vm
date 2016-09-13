@@ -9,7 +9,7 @@ package ${target.javaPackageFromFolder(${SRC})};
 import java.util.Hashtable;
 import java.util.Map;
 
-import $entity.fullName ;
+import ${ROOT_PKG}.basic.bean.${entity.name} ;
 #foreach( $import in $java.imports($entity.keyAttributes) )
 import $import;
 #end
