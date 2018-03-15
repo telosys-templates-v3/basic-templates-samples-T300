@@ -1,6 +1,6 @@
 # Telosys 3 Basic template sample
 
-A Set of basic templates usable with code generator Telosys Tools 3.  
+A Set of basic templates usable with code generator Telosys.  
 The generated files gives you multiple samples to tinker with, to understand how generation works and how you can generate your entities in any proposed language. 
 
 ## Installation
@@ -15,4 +15,4 @@ The generated files gives you multiple samples to tinker with, to understand how
 
 ## More info
 
-[About Telosys Tools](http://www.telosys.org/) | [Telosys CLI](http://telosys.org/cli.html)
+[About Telosys](http://www.telosys.org/) | [Telosys CLI](http://telosys.org/cli.html)
